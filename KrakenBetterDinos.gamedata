@@ -1238,11 +1238,11 @@
       "Mod": "Kraken Better Dinos"
     },
    {
-      "NameTag": "BD-Wyvern",
+      "NameTag": "Tek Giganotosaurus",
       "IsSpawnable": true,
-      "IsTameable": "False",
-      "ClassName": "Wyvern_Character_BP_Fire_Corrupt_Egger_C",
-      "Description": "BD-Wyvern",
+      "IsTameable": "True",
+      "ClassName": "BionicGigant_Character_BP_C",
+      "Description": "Tek Giganotosaurus",
       "Mod": "Kraken Better Dinos"
     }    
   ],
