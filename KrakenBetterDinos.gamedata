@@ -1224,7 +1224,7 @@
    {
       "NameTag": "BD-RockDrake",
       "IsSpawnable": true,
-      "IsTameable": "False",
+      "IsTameable": "True",
       "ClassName": "RockDrake_Character_BP_Corrupt_Egger_C",
       "Description": "BD-RockDrake",
       "Mod": "Kraken Better Dinos"
@@ -1232,7 +1232,7 @@
    {
       "NameTag": "BD-Wyvern",
       "IsSpawnable": true,
-      "IsTameable": "False",
+      "IsTameable": "True",
       "ClassName": "Wyvern_Character_BP_Fire_Corrupt_Egger_C",
       "Description": "BD-Wyvern",
       "Mod": "Kraken Better Dinos"
@@ -1244,6 +1244,22 @@
       "ClassName": "BionicGigant_Character_BP_C",
       "Description": "Tek Giganotosaurus",
       "Mod": "Kraken Better Dinos"
-    }    
+    },
+   {
+      "NameTag": "BD-Liopleurodon",
+      "IsSpawnable": true,
+      "IsTameable": "True",
+      "ClassName": "Liop_Character_BP_C",
+      "Description": "BD-Liopleurodon",
+      "Mod": "Kraken Better Dinos"
+    },
+   {
+      "NameTag": "BD-Ocean Liopleurodon",
+      "IsSpawnable": true,
+      "IsTameable": "True",
+      "ClassName": "Ocean_Liop_Character_BP_C",
+      "Description": "BD-Ocean Liopleurodon",
+      "Mod": "Kraken Better Dinos"
+    }          
   ],
 }
